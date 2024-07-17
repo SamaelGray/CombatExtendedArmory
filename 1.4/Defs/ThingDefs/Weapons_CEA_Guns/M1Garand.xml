@@ -6,7 +6,7 @@
 	<ThingDef ParentName="BaseHumanMakeableGun">
 		<defName>CE_Gun_M1Garand</defName>
 		<label>M1 Garand</label>
-		<description>Ancient semi-automatic battle rifle. Fires a full-power rifle cartridge and is still in service due to its shear firepower and simplicity.</description>
+		<description>Ancient semi-automatic battle rifle. Fires a full-power rifle cartridge and is still in service due to its sheer firepower and simplicity.</description>
 		<possessionCount>1</possessionCount>
 		<graphicData>
 			<texPath>Things/Weapons/M1Garand</texPath>
