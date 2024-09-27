@@ -50,7 +50,7 @@
 
 	<ThingDef ParentName="TurretMannedBuildableBase">
 		<defName>Turret_TwelvePounder</defName>
-		<label>12 pounder cannon</label>
+		<label>12-pounder cannon</label>
 		<constructionSkillPrerequisite>6</constructionSkillPrerequisite>
 		<graphicData>
 			<texPath>Things/Building/Security/12Pounder/12Pounder_base</texPath>
